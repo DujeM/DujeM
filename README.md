@@ -4,11 +4,14 @@ Welcome to my GitHub profile! I'm Duje Marusic, an experienced software develope
 
 🛠️ Tech Stack:  
 Frontend: Angular, React with a focus on Next.js
+
 Backend: Node.js, Spring boot, experienced with Supabase and Firebase
 
 💻 Live projects:  
 Make a Drop - Angular app for easy file transfer between devices using Firebase funcitonalities - https://makeadrop.com/  
+
 Subscribx - Next.js app for online payments and subscription management made as a wrapper of Stripe API - https://www.subscribx.com/
+
 EmailBoards - Next.js app for seamless ticket management for Gmail - https://www.emailboards.com/
 
 <!--
